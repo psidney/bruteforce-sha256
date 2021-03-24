@@ -5,7 +5,6 @@ from datetime import datetime
 showComps = False		# Show the sha 256 encrypts we are trying. Can be True or False.
 showGuesses = False		# Show the raw password we are trying. Can be True or False.
 asciiRangeMin = 33		# Numbers and Symbols (33), No special (48), lowercase only (97)
-asciiRangeMin = 33		# Numbers and Symbols (33), No special (48), lowercase only (97)
 asciiRangeMax = 122		# Remains 122, unless using complex characters
 ########################################################################################
 
